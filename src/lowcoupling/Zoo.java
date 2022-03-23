@@ -9,7 +9,7 @@ public class Zoo {
     contain a Lion and a Monkey in a single list.
      */
 
-    private List<Lion> lions = new ArrayList<>();
+    private List<Animal> lions = new ArrayList<>();
 
 
     public void addLion(Lion lion) {
